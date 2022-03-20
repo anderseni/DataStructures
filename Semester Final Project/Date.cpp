@@ -125,5 +125,3 @@ int Date::getEndMonth() {
 int Date::getEndYear() {
 	return endYear;
 }
-
-//is older function()
