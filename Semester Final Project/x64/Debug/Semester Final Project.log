@@ -1,0 +1,21 @@
+﻿  Professor.cpp
+  Course.cpp
+  AddCourse.cpp
+  Date.cpp
+  CourseE.cpp
+  Schedule.cpp
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(34,2): error C2065: 'Classroom': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(34,12): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(34,12): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(35,2): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(36,2): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(37,2): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(38,2): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(40,30): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(41,31): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(42,32): error C2065: 'c': undeclared identifier
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\Schedule.h(43,36): error C2065: 'c': undeclared identifier
+  Classroom.cpp
+  LinkedList.cpp
+  Generating Code...
+C:\Users\ICCC Student\Desktop\Isaac Andersen - Career Academy C++\Semester Final Project\LinkedList.cpp(142): warning C4715: 'LinkedList::getItem': not all control paths return a value
